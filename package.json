@@ -1,13 +1,13 @@
 {
-  "name": "@arkecosystem/desktop-wallet-theme-template",
+  "name": "@WhitePeonies/Whitepeonies-theme",
   "version": "0.0.1",
-  "description": "Desktop Wallet Theme Template",
+  "description": "WhitePeonies",
   "main": "src/index.js",
-  "author": "Author Name",
+  "author": "WhitePeonies",
   "license": "MIT",
   "desktop-wallet": {
-    "title": "Theme Template",
-    "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/theme-template/master/logo.png",
+    "title": "WhitePeonies_Theme",
+    "logo": "https://user-images.githubusercontent.com/90447576/132829822-da49dff3-02e3-470b-817c-357074ba6abb.png",
     "images": [
       "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/theme-template/master/preview-1.png",
       "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/theme-template/master/preview-2.png",
@@ -34,9 +34,9 @@
     "Author Name"
   ],
   "bugs": {
-    "url": "https://github.com/ark-ecosystem-desktop-plugins/theme-template/issues"
+    "url": "https://github.com/WhitePeonies/WhitePeonies/issues"
   },
-  "homepage": "https://github.com/ark-ecosystem-desktop-plugins/theme-template#readme",
+  "homepage": "https://github.com/WhitePeonies/WhitePeonies",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ark-ecosystem-desktop-plugins/theme-template.git"
