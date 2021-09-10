@@ -1,8 +1,8 @@
 module.exports = {
   getThemes () {
     return {
-      'plugin-light-mode': {
-        cssPath: 'styles/light.css',
+      'plugin-WhitePeonies-theme': {
+        cssPath: 'styles/WhitePeoniestheme.css',
         darkMode: false
       }
     }
